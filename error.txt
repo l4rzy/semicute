@@ -1,0 +1,5 @@
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at osu.Graphics.Skinning.SkinOsu.#=qmw8LwO9TXhBpdM5rMdVkBQ==()
+   at osu.Graphics.Skinning.Skin.#=qlWyww77cpSlH$lcXDOUqTQ==(String #=qy542vh$aFhwZPdXReVwNWg==)
+   at #=qdyw5rO7Xs6kvMzONpj9uBZlVPQFS53shXovF9165MEggAHBjQH$3UHvoLB7DpYgO.#=qjvE4r9vgbkUKvSAZrJCwyA==(String #=qt9rk968GG0JZ1ptc6hy4iw==)
