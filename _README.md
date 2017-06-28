@@ -1,7 +1,7 @@
 # l4's osu! skin
 ## Note: 
 * Checkout folder `edit` for another hitcircles (suitable for beatmap editing)
-* Set background dim = 100% and music volume=75% for best experience ;)
+* Set background dim = 100% and music volume = 75% for best experience ;)
 
 ## Disclaimer: 
 I dont own all the skin assets, they are either created by me 
