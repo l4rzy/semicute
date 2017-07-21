@@ -1,10 +1,11 @@
 # l4's osu! skin
 ## Note: 
-* Checkout folder `edit` for another hitcircles (suitable for beatmap editing)
-* Set background dim = 100% and music volume = 75% for best experience ;)
+* Checkout folder `extras` for another hitcircles (coloured circles,
+		suitable for beatmap editing and playing EZ)
+* Set background dim = 100% and music volume = 75% for the best experience ;)
 
 ## Disclaimer: 
-I dont own all the skin assets, they are either created by me 
+I don't own all the skin assets, they are either created by me 
 or took from other skins (with my edit), included:
 * Elohere
 * Rohulk skin
@@ -13,7 +14,6 @@ or took from other skins (with my edit), included:
 
 ## Software:
 * Paint.NET
+* Pinta
 * Audacity
 * GIMP
-
-
